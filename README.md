@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NODmarc
-- 👀 I’m interested in manual testing and penetration testing + hiking.
-- 🌱 I’m currently learning SQL, Python, Java. 
+- 👀 I’m interested in manual testing + hiking.
+- 🌱 I’m currently learning MySQL, C#, REST API 
 - 💞️ I'm looking to collaborate on in training and testing skills training.
 - 📫 How to reach me mark.ositis@gmail.com
 <!---
